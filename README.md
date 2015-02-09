@@ -19,6 +19,7 @@ This repo
 3. Run `vagrant up` and this will install the Trusty64 VM
     1. If you encounter any weird errors try `vagrant plugin install vagrant-vbguest`, then run `vagrant destroy`, then `vagrant up`
 4. Run `vagrant ssh` to access the VM
+5. Run `exit` from the VM to return to the host
 
 Notes
 -----
